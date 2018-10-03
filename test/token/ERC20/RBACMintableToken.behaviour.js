@@ -1,4 +1,4 @@
-const { expectThrow } = require('../helpers/expectThrow');
+const { expectThrow } = require('../../helpers/expectThrow');
 
 const ROLE_MINTER = 'minter';
 
